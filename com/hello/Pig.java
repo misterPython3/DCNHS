@@ -10,7 +10,7 @@ public class Pig {
         int PlayerScore = 0;
         int ComputerScore = 0;
         String answer;
-        System.out.println("Hello! Welcom to the Pig Game!");
+        System.out.println("Hello! Welcome to the Pig Game!");
         do {
         System.out.print("Do you want to start a new game? (Y/N):");
         answer = scanner.nextLine(); //Nextline for player
